@@ -38,3 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # portofolio
 >>>>>>> 5ebbf9ca86815a721148c0487fcca6ba9bc79fc5
+
+npx @slicemachine/init@latest --repository mnajmytsss-portfolio 

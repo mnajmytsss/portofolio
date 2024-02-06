@@ -4,6 +4,8 @@ import { Content, isFilled } from "@prismicio/client";
 import { SliceComponentProps, PrismicRichText } from "@prismicio/react";
 import ContentList from "./ContentList";
 import { createClient } from "@/prismicio";
+import Button from "@/components/Button";
+import { MdOutlineLibraryBooks } from "react-icons/md";
 
 /**
  * Props for `ContentIndex`.

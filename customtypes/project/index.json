@@ -26,14 +26,6 @@
           "placeholder": ""
         }
       },
-      "hover_image": {
-        "type": "Image",
-        "config": {
-          "label": "Hover Image",
-          "constraint": {},
-          "thumbnails": []
-        }
-      },
       "slices": {
         "type": "Slices",
         "fieldset": "Slice Zone",

@@ -13,8 +13,25 @@
 						}
 					}
 				]
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com"
+				}
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "ran",
+				"type": "Text"
 			}
 		},
-		"items": []
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
 	}
 ]
